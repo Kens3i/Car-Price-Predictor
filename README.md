@@ -1,2 +1,5 @@
 # Car-Price-Predictor
-Predicts The S.P Of A Car. Used ML and Flask Techniques.
+Predicts The Selling Price Of A Car. Used ML, Flask And Some HTML To Create And Deploy This Project.
+
+Working Website:
+https://carselingpricepredictor.herokuapp.com/
